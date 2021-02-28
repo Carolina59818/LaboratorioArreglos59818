@@ -58,6 +58,7 @@ public class LaboratorioArreglos59818 {
            System.out.println("[" + noMatriz[2][0] + " " + noMatriz[2][1] +
                    " " + noMatriz[2][2] + " " + noMatriz[2][3] + "]");
 
+           
     }
     
 }
